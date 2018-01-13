@@ -4,4 +4,4 @@
 
 1> Convert celsius to fahrenheit
 
-2> innput numbers in file (File handling)
+2> Input numbers in file (File handling)
