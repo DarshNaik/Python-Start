@@ -5,3 +5,8 @@
 1> Convert celsius to fahrenheit
 
 2> Input numbers in file (File handling)
+
+```python
+int x
+print(x)
+```
