@@ -5,11 +5,11 @@ def c_f(x):
         f = x * 1.8 + 32.0
         return f
 
-c = []
+a = []
 n = int(input("Enter a number : "))
 for i in range(n):
     x = float(input())
-    c.append(x)
+    a.append(x)
 
-for i in c:
+for i in a:
     print(c_f(i))
