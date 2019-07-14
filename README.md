@@ -27,3 +27,18 @@ npm start
 
 ##### Allocate Task :
 * url : localhost:3000/allocate-task
+
+
+
+# Python-Start
+
+## Start of my python learning ^__^
+
+1> Convert celsius to fahrenheit
+
+2> Input numbers in file (File handling)
+
+```python
+int x
+print(x)
+```
